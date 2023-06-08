@@ -9,16 +9,16 @@
   },
   "showcase": {
     "products": [
-      { "id": 1, "title": "product 1", "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg", "promo": true },
-      { "id": 2, "title": "product 2", "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg", "promo": false },
-      { "id": 3, "title": "product 3", "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg", "promo": false },
-      { "id": 4, "title": "product 4", "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg", "promo": false },
-      { "id": 5, "title": "product 5", "image": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg", "promo": false },
-      { "id": 6, "title": "product 6", "image": "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg", "promo": false },
-      { "id": 7, "title": "product 7", "image": "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg", "promo": true },
-      { "id": 8, "title": "product 8", "image": "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg", "promo": false },
-      { "id": 9, "title": "product 9", "image": "https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_.jpg", "promo": false },
-      { "id": 10, "title": "product 10", "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg", "promo": false }
+      { "id": 1, "title": "product 1", "link": "https://google.com", "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg", "promo": true },
+      { "id": 2, "title": "product 2", "link": "https://google.com", "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg", "promo": false },
+      { "id": 3, "title": "product 3", "link": "https://google.com", "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg", "promo": false },
+      { "id": 4, "title": "product 4", "link": "https://google.com", "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg", "promo": false },
+      { "id": 5, "title": "product 5", "link": "https://google.com", "image": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg", "promo": false },
+      { "id": 6, "title": "product 6", "link": "https://google.com", "image": "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg", "promo": false },
+      { "id": 7, "title": "product 7", "link": "https://google.com", "image": "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg", "promo": true },
+      { "id": 8, "title": "product 8", "link": "https://google.com", "image": "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg", "promo": false },
+      { "id": 9, "title": "product 9", "link": "https://google.com", "image": "https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_.jpg", "promo": false },
+      { "id": 10, "title": "product 10", "link": "https://google.com", "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg", "promo": false }
     ],
     "settings": {
       "body_bg_color": "#EDF6F8",
